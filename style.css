@@ -1,0 +1,7 @@
+body {
+    background: green;
+}
+canvas {
+    border: black 10px;
+    align-self: center;
+}
